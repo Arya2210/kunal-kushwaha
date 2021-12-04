@@ -51,5 +51,6 @@
 
 ![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=kunal-kushwaha&show_icons=true&hide_border=tr>
 HEY KUNAL ARYA THIS SIDE                                                            ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kunal-kushwaha.kunal-kushwaha
--> HEY kunal arya this side new to open source journey
+	-> HEY kunal arya this side new to open source journey
+-> hey kunal this git tutorial video is crazy man ! just loved it .
 
