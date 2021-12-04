@@ -49,6 +49,5 @@
 - Selected as a recipient for the [Linux Foundation Training (LiFT) Scholarship](https://www.linuxfoundation.org/about/diversity-inclusiveness/lift-scholarships/) in the Developer Do-Gooders category.
 - Selected as a scholarship recipient for [KubeCon + CloudNativeCon](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/), [Open Source Summit](https://events.linuxfoundation.org/open-source-summit-north-america/) in 2019 & 2020.
 
-![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=kunal-kushwaha&show_icons=true&hide_border=true)
-<br />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=kunal-kushwaha.kunal-kushwaha)
+![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=kunal-kushwaha&show_icons=true&hide_border=tr>
+HEY KUNAL ARYA THIS SIDE                                                            ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kunal-kushwaha.kunal-kushwaha
